@@ -1,30 +1,51 @@
+// class Solution{
+//     public:
+//     vector<int> asteroidCollision(vector<int>& asteroids) {
+//         stack<int> s;
+//         for (int asteroid : asteroids) {
+//             bool destroyed = false;
+//             while (!s.empty() && asteroid < 0 && s.top() > 0) {
+//                 if (s.top() < -asteroid) {
+//                     s.pop();
+//                 } else if (s.top() == -asteroid) {
+//                     s.pop();
+//                     destroyed = true;
+//                     break;
+//                 } else {
+//                     destroyed = true;
+//                     break;
+//                 }
+//             }
+//             if (!destroyed) {
+//                 s.push(asteroid);
+//             }
+//         }
+//         vector<int> result(s.size());
+//         for (int i = s.size() - 1; i >= 0; --i) {
+//             result[i] = s.top();
+//             s.pop();
+//         }
+//         return result;
+//     }
+// };
 class Solution{
     public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int> s;
-        for (int asteroid : asteroids) {
-            bool destroyed = false;
-            while (!s.empty() && asteroid < 0 && s.top() > 0) {
-                if (s.top() < -asteroid) {
-                    s.pop();
-                } else if (s.top() == -asteroid) {
-                    s.pop();
-                    destroyed = true;
-                    break;
-                } else {
-                    destroyed = true;
-                    break;
-                }
+vector<int> asteroidCollision(vector<int>& asteroids) {
+    vector<int> s;
+    for (int a : asteroids) {
+        bool destroyed = false;
+        while (!s.empty() && s.back() > 0 && a < 0) {
+            if (abs(s.back()) < abs(a)) {
+                s.pop_back();
+                continue;
+            } else if (abs(s.back()) == abs(a)) {
+                s.pop_back();
             }
-            if (!destroyed) {
-                s.push(asteroid);
-            }
+            destroyed = true;
+            break;
         }
-        vector<int> result(s.size());
-        for (int i = s.size() - 1; i >= 0; --i) {
-            result[i] = s.top();
-            s.pop();
-        }
-        return result;
+        if (!destroyed) s.push_back(a);
+    }
+    return s;
     }
 };
