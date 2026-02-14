@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->
