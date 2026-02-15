@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -73,9 +74,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0799-champagne-tower) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
