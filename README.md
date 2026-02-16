@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0901-online-stock-span) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -90,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
