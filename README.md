@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
+| [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0401-binary-watch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
