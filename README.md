@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
