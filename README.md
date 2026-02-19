@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 ## Ordered Set
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0696-count-binary-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
