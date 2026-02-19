@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
 |  |
