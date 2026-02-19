@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0696-count-binary-substrings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
