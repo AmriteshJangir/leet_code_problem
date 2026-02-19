@@ -100,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
