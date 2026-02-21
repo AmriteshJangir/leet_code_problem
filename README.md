@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Binary Search
 |  |
 | ------- |
