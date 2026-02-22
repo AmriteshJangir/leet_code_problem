@@ -92,3 +92,4 @@ public:
     }
 };
 auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
+static auto _=[](){ios::sync_with_stdio(0);cin.tie(0);return 0;}();
