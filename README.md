@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0213-house-robber-ii) |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0213-house-robber-ii) |
 | [0799-champagne-tower](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0799-champagne-tower) |
 ## Math
 |  |
