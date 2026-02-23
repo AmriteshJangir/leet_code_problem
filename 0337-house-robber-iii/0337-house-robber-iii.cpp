@@ -9,18 +9,40 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class Solution {
+//     public:
+//     int rob(TreeNode* root) {
+//         function<pair<int, int>(TreeNode*)> dfs = [&](TreeNode* node) {
+//             if (!node) return make_pair(0, 0);
+//             auto [leftRob, leftNotRob] = dfs(node->left);
+//             auto [rightRob, rightNotRob] = dfs(node->right);
+//             int robCurrent = node->val + leftNotRob + rightNotRob;
+//             int notRobCurrent = max(leftRob, leftNotRob) + max(rightRob, rightNotRob);
+//             return make_pair(robCurrent, notRobCurrent);
+//         };
+//         auto [robRoot, notRobRoot] = dfs(root);
+//         return max(robRoot, notRobRoot);
+//     }
+// };
+
 class Solution {
-    public:
+public:
+    struct State {
+        int rob;
+        int skip;
+    };
+    State dfs(TreeNode* node) {
+        if (!node) return {0, 0};
+        State left = dfs(node->left);
+        State right = dfs(node->right);
+        State curr;
+        curr.rob = node->val + left.skip + right.skip;
+        curr.skip = max(left.rob, left.skip) + 
+                    max(right.rob, right.skip);
+        return curr;
+    }
     int rob(TreeNode* root) {
-        function<pair<int, int>(TreeNode*)> dfs = [&](TreeNode* node) {
-            if (!node) return make_pair(0, 0);
-            auto [leftRob, leftNotRob] = dfs(node->left);
-            auto [rightRob, rightNotRob] = dfs(node->right);
-            int robCurrent = node->val + leftNotRob + rightNotRob;
-            int notRobCurrent = max(leftRob, leftNotRob) + max(rightRob, rightNotRob);
-            return make_pair(robCurrent, notRobCurrent);
-        };
-        auto [robRoot, notRobRoot] = dfs(root);
-        return max(robRoot, notRobRoot);
+        State res = dfs(root);
+        return max(res.rob, res.skip);
     }
 };
