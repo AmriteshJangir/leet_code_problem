@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
 |  |
 | ------- |
