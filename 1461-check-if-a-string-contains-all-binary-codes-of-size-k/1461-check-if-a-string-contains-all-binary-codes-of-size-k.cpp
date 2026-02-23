@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-        int req = 1 << k;
-        bitset<1048576> seen;
-        int mask = req - 1;
+        int total = 1 << k;
+        unordered_set<int> st;
+        
+        int mask = total - 1;
         int hash = 0;
 
-        for (int i = 0; i < s.length(); ++i) {
-            hash = ((hash << 1) & mask) | (s[i] & 1);
-
-            if (i >= k - 1 && !seen[hash]) {
-                seen[hash] = 1;
-                req--;
-                if (req == 0) return true;
+        for (int i = 0; i < s.size(); i++) {
+            hash = ((hash << 1) & mask) | (s[i] - '0');
+            
+            if (i >= k - 1) {
+                st.insert(hash);
+                if (st.size() == total) return true;
             }
         }
 
