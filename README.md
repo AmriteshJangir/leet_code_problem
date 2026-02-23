@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0696-count-binary-substrings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0098-validate-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
