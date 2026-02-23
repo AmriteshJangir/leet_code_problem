@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0687-longest-univalue-path) |
 ## Two Pointers
 |  |
