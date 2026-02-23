@@ -12,36 +12,40 @@
 class Solution {
 public:
     int amountOfTime(TreeNode* root, int start) {
-        TreeNode *startNode = nullptr;
-        unordered_map<TreeNode*,TreeNode*> parent;
+        unordered_map<int, vector<int>> g;
         queue<TreeNode*> q;
         q.push(root);
-        while (!q.empty()) {
-            auto n = q.front(); q.pop();
-            if (n->val == start) startNode = n;
-            if (n->left)  { parent[n->left] = n;  q.push(n->left); }
-            if (n->right) { parent[n->right] = n; q.push(n->right); }
-        }
-        if (!startNode) return 0;
-        unordered_set<TreeNode*> seen;
-        q.push(startNode);
-        seen.insert(startNode);
-        int minutes = 0;
-        while (!q.empty()) {
-            int sz = q.size();
-            bool moved = false;
-            while (sz--) {
-                auto n = q.front(); q.pop();
-                for (TreeNode* nei : {n->left, n->right, parent[n]}) {
-                    if (nei && !seen.count(nei)) {
-                        seen.insert(nei);
-                        q.push(nei);
-                        moved = true;
-                    }
-                }
+
+        while(!q.empty()){
+            auto n=q.front(); q.pop();
+            if(n->left){
+                g[n->val].push_back(n->left->val);
+                g[n->left->val].push_back(n->val);
+                q.push(n->left);
             }
-            if (moved) ++minutes;
+            if(n->right){
+                g[n->val].push_back(n->right->val);
+                g[n->right->val].push_back(n->val);
+                q.push(n->right);
+            }
         }
-        return minutes;
+
+        unordered_set<int> vis;
+        queue<int> qq;
+        qq.push(start);
+        vis.insert(start);
+
+        int time=-1;
+        while(!qq.empty()){
+            int sz=qq.size();
+            time++;
+            while(sz--){
+                int cur=qq.front(); qq.pop();
+                for(int x:g[cur])
+                    if(!vis.count(x))
+                        vis.insert(x),qq.push(x);
+            }
+        }
+        return time;
     }
 };
