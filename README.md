@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
+| [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
+| [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Greedy
+|  |
+| ------- |
+| [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 <!---LeetCode Topics End-->
