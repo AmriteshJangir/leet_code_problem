@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Binary Search
 |  |
 | ------- |
