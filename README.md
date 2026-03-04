@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
