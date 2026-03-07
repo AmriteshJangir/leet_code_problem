@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0337-house-robber-iii) |
 | [0799-champagne-tower](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0799-champagne-tower) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search Tree
 |  |
 | ------- |
