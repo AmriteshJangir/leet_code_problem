@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0456-132-pattern) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Ordered Set
 |  |
 | ------- |
@@ -242,8 +243,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
