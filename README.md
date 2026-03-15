@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0901-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1622-fancy-sequence) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/AmriteshJangir/leet_code_problem/tree/master/0781-rabbits-in-forest) |
+| [1622-fancy-sequence](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
