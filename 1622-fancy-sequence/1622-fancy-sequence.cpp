@@ -1,41 +1,41 @@
 class Fancy {
 private:
-    const int mod = 1e9 + 7;
-    vector<long long> val;
-    long long a, b;
-    long long modPow(long long x, long long y, long long mod) {
+    const long long MOD = 1e9 + 7;
+    
+    vector<long long> seq;
+    long long mul = 1;
+    long long add = 0;
+
+    long long modPow(long long a, long long b) {
         long long res = 1;
-        x = x % mod;
-        while (y > 0) {
-            if (y % 2 == 1) {
-                res = (res * x) % mod;
-            }
-            y = y / 2;
-            x = (x * x) % mod;
+        while (b) {
+            if (b & 1) res = (res * a) % MOD;
+            a = (a * a) % MOD;
+            b >>= 1;
         }
         return res;
     }
+
 public:
-    Fancy() : a(1), b(0) {
-    }
-    
+    Fancy() {}
+
     void append(int val) {
-        long long x = (val - b + mod) % mod;
-        this->val.push_back((x * modPow(a, mod - 2, mod)) % mod);
+        long long inv = modPow(mul, MOD - 2);
+        long long stored = ((val - add + MOD) % MOD * inv) % MOD;
+        seq.push_back(stored);
     }
-    
+
     void addAll(int inc) {
-        b = (b + inc) % mod;
+        add = (add + inc) % MOD;
     }
-    
+
     void multAll(int m) {
-        a = (a * m) % mod;
-        b = (b * m) % mod;
+        mul = (mul * m) % MOD;
+        add = (add * m) % MOD;
     }
-    
+
     int getIndex(int idx) {
-        if (idx >= val.size()) 
-            return -1;
-        return (a * val[idx] + b) % mod;
+        if (idx >= seq.size()) return -1;
+        return (seq[idx] * mul % MOD + add) % MOD;
     }
 };
