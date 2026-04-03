@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1980-find-unique-binary-string) |
 | [2751-robot-collisions](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2751-robot-collisions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Union-Find
 |  |
 | ------- |
