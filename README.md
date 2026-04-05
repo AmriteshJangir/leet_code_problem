@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3713-longest-balanced-substring-i](https://github.com/AmriteshJangir/leet_code_problem/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/AmriteshJangir/leet_code_problem/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/AmriteshJangir/leet_code_problem/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
